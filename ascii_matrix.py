@@ -76,7 +76,6 @@ def handle_input(key):
             print("END OF RECORDING: " + str(video_counter))
             video.release()      
         
-
     if recording:
         video.write(generate_ascii(frame, False))
     
