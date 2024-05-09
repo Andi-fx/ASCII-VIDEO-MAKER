@@ -38,4 +38,5 @@ ASCII Video Maker is a Python program that captures video from your camera and c
 - `Camera-Pictures/`: Directory to store captured pictures.
 - `Camera-Videos/`: Directory to store recorded videos.
 
-- Made by Andi-fx
+## Author
+- Andi-fx
